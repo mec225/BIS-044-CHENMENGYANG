@@ -11,6 +11,6 @@ names(theDF)<-c("Popularity", "Team Strength", "Sport")
 ## New portion
 
 sd(theDF$"Team Strength")
-
+#50/50
 
 
